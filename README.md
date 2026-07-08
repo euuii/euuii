@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on ATM_Machine<br>🌱 I’m currently learning Python
-
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
